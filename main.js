@@ -16,7 +16,7 @@ console.log(myList.get(2));
 console.log(myList.get(3));
 console.log(myList.get(4));
 console.log(myList.get(5));
-myList.insert(0,23);
+myList.insert(0, 23);
 myList.remove(5);
 console.log(myList.get(0));
 console.log(myList.get(1));
@@ -24,7 +24,6 @@ console.log(myList.get(2));
 console.log(myList.get(3));
 console.log(myList.get(4));
 console.log(myList.get(5));
-
 
 //console.log(myList);
 //console.log(myList);
